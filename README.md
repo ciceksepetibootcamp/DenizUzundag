@@ -1,4 +1,17 @@
-# DenizUzundag  
+<h3><bold>Week1</bold></h3>
 
-HomeWork1 :Pagespeed Insights  https://medium.com/@uzundagdeniz/pagespeed-insights-ile-%C3%A7i%C3%A7eksepeti-analizi-4e6a0e3f8fe5
-HomeWork2 :Postman -Trello RestApi
+:star: `#HomeWork1- CicekSepeti TestCase`
+
+:star: `#HomeWork2- CiceksepetiWeb-Selenium`
+
+<h3><bold>Week2</bold></h3>
+
+ :star: `#HomeWork1- PageSpeed Insights`
+
+ :star: `#HomeWork2- Postman ile Trello Rest Api Testi`
+
+<h3><bold>Week3</bold></h3>
+
+ :star: `#HomeWork1- RestAssured- https://imdb-api.com/ `
+
+ :star: `#HomeWork2-Cucumber ile Tipster.web Testi `
