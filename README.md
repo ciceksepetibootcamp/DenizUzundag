@@ -21,3 +21,9 @@
  :star: `#HomeWork1- .net test`
 
  :star: `#HomeWork2- `
+
+  <h3><bold>Week5</bold></h3>
+
+ :star: `#HomeWork1- StarbucksAndroid-POM`
+
+ :star: `#HomeWork2- `
